@@ -1,0 +1,11 @@
+C:\Users\John Karaplis\SideProjects\FullFibonacciApp\ConsoleApp1\bin\Debug\netcoreapp2.0\FullFibonacciApp.deps.json
+C:\Users\John Karaplis\SideProjects\FullFibonacciApp\ConsoleApp1\bin\Debug\netcoreapp2.0\FullFibonacciApp.runtimeconfig.json
+C:\Users\John Karaplis\SideProjects\FullFibonacciApp\ConsoleApp1\bin\Debug\netcoreapp2.0\FullFibonacciApp.runtimeconfig.dev.json
+C:\Users\John Karaplis\SideProjects\FullFibonacciApp\ConsoleApp1\bin\Debug\netcoreapp2.0\FullFibonacciApp.dll
+C:\Users\John Karaplis\SideProjects\FullFibonacciApp\ConsoleApp1\bin\Debug\netcoreapp2.0\FullFibonacciApp.pdb
+C:\Users\John Karaplis\SideProjects\FullFibonacciApp\ConsoleApp1\obj\Debug\netcoreapp2.0\FullFibonacciApp.csprojAssemblyReference.cache
+C:\Users\John Karaplis\SideProjects\FullFibonacciApp\ConsoleApp1\obj\Debug\netcoreapp2.0\FullFibonacciApp.csproj.CoreCompileInputs.cache
+C:\Users\John Karaplis\SideProjects\FullFibonacciApp\ConsoleApp1\obj\Debug\netcoreapp2.0\FullFibonacciApp.AssemblyInfoInputs.cache
+C:\Users\John Karaplis\SideProjects\FullFibonacciApp\ConsoleApp1\obj\Debug\netcoreapp2.0\FullFibonacciApp.AssemblyInfo.cs
+C:\Users\John Karaplis\SideProjects\FullFibonacciApp\ConsoleApp1\obj\Debug\netcoreapp2.0\FullFibonacciApp.dll
+C:\Users\John Karaplis\SideProjects\FullFibonacciApp\ConsoleApp1\obj\Debug\netcoreapp2.0\FullFibonacciApp.pdb
